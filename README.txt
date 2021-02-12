@@ -1,4 +1,4 @@
-This app was made to run in browser. It utilizes the Plotly Dash framework to help users make more informed investment decisions.
+This app was made to run in browser. It utilizes the Plotly Dash framework to help users make more informed investment decisions. 
 
 What this app does:
   -user will feed the input as many stock symbols as they want, press enter when you're done
